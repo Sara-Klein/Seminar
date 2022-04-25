@@ -1,4 +1,4 @@
 # Seminar
 - Multilevel Monte Carlo for Reinforcement Learning
-- Next TODO: Initiliaze State dependent policy
+- Next TODO: Check if CNN is working
 - 
